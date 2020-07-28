@@ -1,0 +1,1 @@
+Uses a Monte Carlo method to forecast the price of the stock in the future using recent historical averages, assumes that the stock will perform similar to how it has recently. Uses the monte carlo forecasts against a variety of options strategies (Iron Condor etc.) to determine the probability that they are successful
